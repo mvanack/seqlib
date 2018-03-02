@@ -1,0 +1,5 @@
+## ensure git ignores these files
+*.pyc
+*.egg-info/
+__pycache__/
+
